@@ -1,0 +1,84 @@
+I want a sentence division with conjunction of word "and".
+Please show me the division result with conjunction of word "and".
+I hope you can return the result with conjunction of word "and".
+You can give me the sentence division with conjunction of word "and".
+Please inform me of the division result with conjunction of word "and".
+I hope you could tell me the result with conjunction of word "and".
+You can display the division result with conjunction of word "and".
+Please demonstrate it with the result with conjunction of word "and".
+I want to see the result with conjunction of word "and".
+I am willing to look at the division result with conjunction of word "and".
+Please let me know the result with conjunction of word "and".
+I want to recognize the sentence division with conjunction of word "and".
+I want a error report of the grammar error correction.
+Please show me the error report of the correction.
+I hope you can return the error report.
+You can give me the error report of the grammar error correction.
+Please inform me of the error report.
+I hope you could tell me the error report of the correction.
+You can display the result in the form of error report.
+Please demonstrate it with the error report of the grammar error correction.
+I want to see the error report.
+I am willing to look at the error report of the correction.
+Please let me know the error report of the grammar error correction.
+I want to recognize the error report.
+I want a keyword extraction result with 5 words.
+Please show me the extraction result with 5 words.
+I hope you can return the extraction result with 5 keywords.
+You can give me the keyword extraction result with 5 words.
+Please inform me of the extraction result with 5 words.
+I hope you could tell me the extraction result with 5 keywords.
+You can display the keyword extraction result with 5 words.
+Please demonstrate it with the extraction result with 5 words.
+I want to see the result with the extraction result with 5 keywords.
+I am willing to look at the division result extraction result with 5 words.
+Please let me know the extraction result with 5 words.
+I want to recognize the extraction result with 5 keywords.
+I want a opening sentence of result of text summarization.
+Please show me the result of text summarization with opening sentence.
+I hope you can return the opening sentence.
+You can give me the opening sentence of result of text summarization.
+Please inform me of the result of text summarization with opening sentence.
+I hope you could tell me the opening sentence.
+You can display the opening sentence of result of text summarization.
+Please demonstrate it with the result of text summarization with opening sentence.
+I want to see the opening sentence.
+I am willing to look at the opening sentence of result of text summarization.
+Please let me know the result of text summarization with opening sentence.
+I want to recognize the opening sentence.
+I want the number of sentences.
+Please show me the number of sentences.
+I hope you can return the number of sentences.
+You can give me the number of sentences.
+Please inform me of the number of sentences.
+I hope you could tell me the number of sentences.
+You can display the number of sentences.
+Please demonstrate it with the number of sentences.
+I want to see the number of sentences.
+I am willing to look at the number of sentences.
+Please let me know the number of sentences.
+I want to recognize the number of sentences.
+I want the average number of words.
+Please show me the average number of words.
+I hope you can return the average number of words.
+You can give me the average number of words.
+Please inform me of the average number of words.
+I hope you could tell me the average number of words.
+You can display the average number of words.
+Please demonstrate it with the average number of words.
+I want to see the average number of words.
+I am willing to look at the average number of words.
+Please let me know the average number of words.
+I want to recognize the average number of words.
+I want the number of total words.
+Please show me the number of total words.
+I hope you can return the number of total words.
+You can give me the number of total words.
+Please inform me of the number of total words.
+I hope you could tell me the number of total words.
+You can display the number of total words.
+Please demonstrate it with the number of total words.
+I want to see the number of total words.
+I am willing to look at the number of total words.
+Please let me know the number of total words.
+I want to recognize the number of total words.

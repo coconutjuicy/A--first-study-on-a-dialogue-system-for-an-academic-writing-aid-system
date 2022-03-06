@@ -1,0 +1,8 @@
+area	type of sentence division terms	yes	and,but,so
+food	type of grammar error correction	yes	error report,modified paragraph
+name	number of keyword extraction	yes	1,2,3,4,5
+pricerange	type of text summarization	yes	opening sentence,abstract
+price range	type of text summarization	yes	opening sentence,abstract
+addr	number of sentences	no
+phone	average number of words	no
+postcode	number of total words	no
