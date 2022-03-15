@@ -36,5 +36,5 @@ BERTモデルを用いて重要な単語を置換する操作はLM_final.pyで�
 
 ![Ni_Zihui_final_presentation_31](https://user-images.githubusercontent.com/40939276/158306755-b4eb6d03-f894-4e35-baaa-dc9a353ae4ee.jpg)
 
-これは私たちの実験結果です。実験データにより、対話システムシステムを修正したデータセットに移行することに成功しました。
+これは私たちの実験結果です。実験データにより、対話システムを修正したデータセットに移行することに成功しました。
 
